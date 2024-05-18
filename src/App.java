@@ -5,6 +5,7 @@ public class App {
         c.newMethod();
         if (c instanceof Markerinterface) {
             System.out.println("this Marker");
+            System.out.println("this Marker");
         }
     }
 }
